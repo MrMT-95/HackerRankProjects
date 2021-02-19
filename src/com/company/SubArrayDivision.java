@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class subArrayDivision {
+public class SubArrayDivision {
 
     public void result() {
         Scanner scanner = new Scanner(System.in);
